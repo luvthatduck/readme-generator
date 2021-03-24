@@ -93,7 +93,7 @@ ${renderLicenseSection(data.licensing)}
 For futher questions feel free to contact me:
 
 Github: [${data.github}](https://github.com/${data.github})
-Email:  [mailto](mailto:${data.email})
+Email:  ${data.email}
 
 `;
 };

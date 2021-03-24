@@ -1,4 +1,4 @@
-# a
+#  Professional README Generator
 
 ## Table of Contents
 * [Description](#description)
@@ -10,27 +10,27 @@
 * [Questions](#questions)
 
 ## Description 
-b
+Challenge 9: Node.js: A Professional README Generator
 
 ## Installation 
-d
+No Installation required
 
 ## Usage
-e
+This is a command-line application that generates a README. It is invoked by using node index.js
 
 ## Contribution
-No contribution used
+Please follow GitHub guidelines and be a good human. 
 
 ## Tests
-t
+None Needed
 
 ## Licensing
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-https://opensource.org/licenses/Apache-2.0
+
+
 
 ## Questions
 For futher questions feel free to contact me:
 
-Github: [luv](https://github.com/luv)
-Email:  [mailto](mailto:livd)
+Github: [luvthatduck](https://github.com/luvthatduck)
+Email:  madeby.jmyrick@gmail.com
 

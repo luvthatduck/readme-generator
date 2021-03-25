@@ -32,6 +32,3 @@ For futher questions feel free to contact me:
 
 Github: [luvthatduck](https://github.com/luvthatduck)
 Email:  madeby.jmyrick@gmail.com
-
-
-
